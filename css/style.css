@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;}
+
+img{width: 100%;}
+
+head{
+  background-color: #E6B0F2;
+  font-family: helvelica, avenir, sans-sans-serif;
+  font-size: 18px;
+  text-align: center;}
+
+body{
+  background-color: #E6B0F2;
+  font-family: helvelica, avenir, sans-sans-serif;
+  font-size: 22px;
+  text-align: center;
+  color: #001642;
+  padding-left: 100px;
+  padding-right: 100px;}
+
+article{
+  font-family: georgia serif;
+  font-size: 16px;}
+
+article h2{
+  font-size: 18px;
+  font-family: monospace;
+  color: #001642;
+}
+
+header{
+  background-color:#333;
+  color: #001642;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-bottom: 10px solid #eee;
+  text-align: center;}
+
+h1{
+  color: #002B80;
+  text-align: center;
+}
+
+h2{
+  color: #002B80;
+  font-style: italic;
+  text-align: center;
+}
+
+p.fork{
+  border-left: solid 2em crimson;
+  padding:.5em;
+  margin: 2em .5em;
+  background: "../images/redplaid.jpg";}
+
+p.spoon{
+    border-left: solid 2em crimson;
+    padding:.5em;
+    margin: 2em .5em;
+    background: "../images/blueplaid.jpg";}
+
+p.spoon{
+    border-left: solid 2em crimson;
+    padding:.5em;
+    margin: 2em .5em;
+    background: "../images/redplaid.jpg";}
+
+p.theothers{
+    border-left: solid 2em crimson;
+    padding:.5em;
+    margin: 2em .5em;
+    background: "../images/blueplaid.jpg";}
